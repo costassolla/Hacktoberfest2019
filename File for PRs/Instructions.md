@@ -1,10 +1,10 @@
 > Welcome to Karamel2002/Hacktoberfest2019/File for PRs
 # ***Here are some simple steps***
 ## **CREATING NEW FILE**
-### 1. "Create new file"
-### 2. Name your file (eg. Example.cpp)
+### 1. *"Create new file"*
+### 2. Name your file (eg. *Example.cpp*)
 ### 3. Inputs and Outputs are optional, but I would recommend the program to print an output: "Hello World!"
-### 4. On "Commit new file":
+### 4. On *"Commit new file"*:
 - Description is optional
 - Put a tick on "*Create a new branch for this commit and start a pull request. Learn more about pull requests.*" 
 - Give your branch a name (eg. Karamel2002-patch-1 *(this is the default name though :)*)
