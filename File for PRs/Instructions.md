@@ -15,7 +15,7 @@
 ### 2. "Create a pull request"
 
 ## **LAST STEP!!**
-### After completing all steps above, your contributions will be counted on your Hacktoberfest Profile at *[YOUR PROFILE][https://hacktoberfest.digitalocean.com/profile]*
+### After completing all steps above, your contributions will be counted on your Hacktoberfest Profile at *[YOUR PROFILE](https://hacktoberfest.digitalocean.com/profile)*
 ### I will review and merge your pull request to the file ASAP.
 
 ## ***BEFORE YOU LEAVE:*** My name is Karamel and thank you for choosing my respository for Hacktoberfest 2019! Hope you will enjoy this event 💓
